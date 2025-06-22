@@ -197,9 +197,9 @@ jupyter notebook
 
 ## 📞 Liên Hệ
 
-- **Email:** [your-email@student.tvu.edu.vn]
-- **GitHub:** [your-github-username]
-- **LinkedIn:** [your-linkedin-profile]
+- **Email:** [nguyenhoang4556z@gmail.com]
+- **GitHub:** [https://github.com/vanhoangtvu]
+- **LinkedIn:** [https://github.com/vanhoangtvu]
 
 ## 📄 License
 
