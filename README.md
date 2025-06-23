@@ -211,6 +211,6 @@ jupyter notebook
 
 **🎓 Đồ Án Cơ Sở Ngành - Nguyễn Văn Hoàng**  
 **🏫 Đại học Trà Vinh - Khoa Kỹ thuật và Công nghệ**  
-**📅 Năm học 2024-2025**
+**📅 Năm học 2023-2024**
 
 </div>
