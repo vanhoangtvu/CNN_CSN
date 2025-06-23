@@ -35,9 +35,9 @@
 
 ```
 CNN_CSN/
-├── cifar-10-image-classification-with-cnn.ipynb  # Notebook chính
-├── README.md                                      # File này
-└── requirements.txt                               # Dependencies 
+├── cifar-10-image-classification-with-cnn.ipynb 
+├── README.md                                     
+└── requirements.txt                                
 ```
 
 ## 📸 Tập Dữ Liệu CIFAR-10
